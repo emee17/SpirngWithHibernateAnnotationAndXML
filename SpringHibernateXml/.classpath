@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/ehcache-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/infinispan-core-4.2.1.CR1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-aspects-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-context-support-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-jdbc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-orm-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/spring-tx-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/Spring with Hibernate/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="lib" path="E:/Java Extra/Framework Jar/hibernate-annotations-jar-files/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
